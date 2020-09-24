@@ -1,8 +1,8 @@
 # challenge19_budget
 
-![screenshot](/img/screenshot.png)
+![screenshot](./public/img/screenshot.png)
 
-[JB BLOT - SOCIAL NETWORK API](https://github.com/jaaybe/challenge18_SocialNetwork)
+[JB BLOT - BUDGET TRACKER APP](https://challenge19-budget.herokuapp.com/)
 
 ## Description
 I've updated an existing budget tracker application to allow for offline access and functionality. The user is able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total is updated when they're brought back online. This application has been deployed to Heroku.

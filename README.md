@@ -1,6 +1,6 @@
 # challenge19_budget
 
-![screenshot](./img/screenshot.png)
+![screenshot](/img/screenshot.png)
 
 [JB BLOT - SOCIAL NETWORK API](https://github.com/jaaybe/challenge18_SocialNetwork)
 
